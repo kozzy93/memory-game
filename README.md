@@ -1,3 +1,0 @@
-<h3>Why do I code?</h3>
-
-<p align="justify">As soon as I started coding, I found it fascinating for several reasons. First of all, it allows me to think abstractly as if I can push the boundaries of imagination and technological possibilities. It also reminds me of solving brain teasers which I have always enjoyed. I tend to set some goals for myself and cannot stop brainstorming until I achieve them because it feels like a challenge for me, and I am quite a competitive person. What I mostly like in coding is that it offers lots of possibilities for further development. I strongly believe that I will not be limited in that kind of work, and the more I code, the more I realize that it is something that I want to do.</p>
